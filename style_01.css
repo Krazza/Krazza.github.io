@@ -141,7 +141,7 @@ div {
 }
 
 #CoreStuff{
-    height: 90vh;
+    height: fit-content;
     display: inline-block;
     box-sizing: border-box;
     scroll-margin-top: 125px;
